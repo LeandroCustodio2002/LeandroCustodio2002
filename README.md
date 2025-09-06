@@ -2,8 +2,8 @@
 
 <div style="padding: auto">
   <a href="https://github.com/LPHBackspace">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ImOutOfBounds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImOutOfBounds&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeandroCustodio2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCustodio2002&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block">
 </div> 
 
@@ -33,8 +33,8 @@
 - 📘 Estudante de Java no Instituto PROA | 2021
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.custodio@sou.inteli.edu.br
-- 👨‍💻 Link para <a href="https://imoutofbounds.github.io/Curriculo/">curículo virtual</a>
+- 👨‍💻 Link para <a href="https://LeandroCustodio2002.github.io/Curriculo/">curículo virtual</a>
   
-    ![snake gif](https://github.com/ImOutOfBounds/ImOutOfBounds/blob/output/github-snake-dark.svg)
+    ![snake gif](https://github.com/LeandroCustodio2002/LeandroCustodio2002/blob/output/github-snake-dark.svg)
   
   ##
