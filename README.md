@@ -1,13 +1,24 @@
 <img src="./images/Musashi.png">
 
-<div style="padding: auto">
-  <a href="https://github.com/LPHBackspace">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeandroCustodio2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCustodio2002&layout=compact&langs_count=7&theme=dark"/>
-  <div style="display: inline_block">
-</div> 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=LeandroCustodio2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=LeandroCustodio2002&theme=tokyonight&hide_border=true&background=00000000" width="49%" />
+
+</div>
+
+<div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCustodio2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+    width="50%" />
+</div>
+
 
 <br>
+
+##
+
+<div>
   <img align="center" alt="leo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="leo-godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img align="center" alt="leo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,8 +27,7 @@
   <img align="center" alt="leo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="leo-unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="leo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-##
+</div>
 
   <br>
   <a href="https://www.youtube.com/channel/UCXevBuu56PwqUSpJqst3ONg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
