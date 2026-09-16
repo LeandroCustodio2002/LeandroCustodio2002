@@ -26,7 +26,7 @@
 - 📘 Estudante de Java no Instituto PROA | 2021
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
 - 👨‍💻 Link para <a href="https://LeandroCustodio2002.github.io/Curriculo/">curículo virtual</a>
-- 👨‍💻 Link para <a href="https://LeandroCustodio2002.github.io/Curriculo/">Portifolio Game Dev</a>
+- 👨‍💻 Link para <a href="https://leandrocustodio2002.github.io/portifolio-gameDev/">Portifolio Game Dev</a>
 
   
     ![snake gif](https://github.com/LeandroCustodio2002/LeandroCustodio2002/blob/output/github-snake-dark.svg)
