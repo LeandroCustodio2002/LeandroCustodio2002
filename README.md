@@ -13,10 +13,10 @@
 - 🎂 Nascido em 18/01/2002
 - ⚙️ Atuando como Engenheiro de Software no Klubi | 2025 - 2026
 - ⚙️ Estagiário em WM IT Solutions - BTG Pactual | 2024 - 2025
-- 📘 Baicharelado em Ciências da Computação pela INTELI  | 2022 - 2025
+- 📘 Bacharelado em Ciências da Computação pela INTELI  | 2022 - 2025
 - 📘 Estudante de Java no Instituto PROA | 2021
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
-- 👨‍💻 Link para <a href="https://LeandroCustodio2002.github.io/Curriculo/">curículo virtual</a>
+- 👨‍💻 Link para <a href="https://LeandroCustodio2002.github.io/Curriculo/">currículo virtual</a>
 - 👨‍💻 Link para <a href="https://leandrocustodio2002.github.io/portifolio-gameDev/">Portifolio Game Dev</a>
 
   
