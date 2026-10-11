@@ -8,7 +8,7 @@
 <br>
   
 ##
-    
+
 
 - 🎂 Nascido em 18/01/2002
 - ⚙️ Atuando como Engenheiro de Software no Klubi | 2025 - 2026
