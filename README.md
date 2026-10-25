@@ -25,8 +25,8 @@
 
 ## 🧭 Trajetória
 
-- ⚙️ Engenheiro de Software na **Klubi** · 2025 – atual
-- ⚙️ Estagiário na **WM IT Solutions – BTG Pactual** · 2024 – 2025
+- ⚙️ Engenheiro de Software no **Klubi** · 2025 – atual
+- ⚙️ Estagiário **WM IT Solutions – BTG Pactual** · 2024 – 2025
 - 📘 Bacharelado em Ciência da Computação no **Inteli** · 2022 – 2025
 - 📘 Java no **Instituto PROA** · 2021
 - 🏗️ Técnico em Edificações na **Etec Itaquera II** · 2018 – 2020
