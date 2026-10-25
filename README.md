@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Leandro 👋
 
-**Engenheiro de Software no Klubi · Game dev nas horas vagas · Faço coisas estranhas com código**
+**Engenheiro de Software no Klubi · Game dev nas horas vagas**
 
 <a href="https://leandrocustodio2002.github.io/portifolio-gameDev/"><img src="https://img.shields.io/badge/🕹️_meu_portfólio-1a1b27?style=for-the-badge" alt="Portfólio Game Dev"></a>
 <a href="https://LeandroCustodio2002.github.io/Curriculo/"><img src="https://img.shields.io/badge/📄_Currículo-1a1b27?style=for-the-badge" alt="Currículo"></a>
