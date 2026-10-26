@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 Sobre
+## Sobre
 
 Sou engenheiro de software no **Klubi**, onde construo os sistemas de IA que atendem os clientes: agentes de voz e texto, avatares em videochamada e as APIs, automações e monitoramento por trás deles.
 
