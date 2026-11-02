@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Sou engenheiro de software no **Klubi**, onde construo os sistemas de IA que atendem os clientes: agentes de voz e texto, avatares em videochamada e as APIs, automações e monitoramento por trás deles.
+Sou engenheiro de software no **Klubi**, onde construo os sistemas de IA que atendem os clientes: agentes de voz e texto, avatares em videochamada e as APIs, automações e monitoramento por trás deles. 
 
 Antes passei pelo **BTG Pactual**, desenvolvendo backend com Spring Boot e Node, e me formei em Ciência da Computação no **Inteli**, com projetos para BTG, Stone, Klabin, Rappi, Yamaha e AEL Sistemas.
 
