@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/leandro-custodio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://LeandroCustodio2002.github.io/Curriculo/"><img src="https://img.shields.io/badge/📄_Currículo-1a1b27?style=for-the-badge" alt="Currículo"></a>
-<a href="https://leandrocustodio2002.github.io/portifolio-gameDev/"><img src="https://img.shields.io/badge/🕹️_Portfólio_game_dev-1a1b27?style=for-the-badge" alt="Portfólio Game Dev"></a>
+<a href="https://leandrocustodio2002.github.io/portfolio-gameDev/"><img src="https://img.shields.io/badge/🕹️_Portfólio_game_dev-1a1b27?style=for-the-badge" alt="Portfólio Game Dev"></a>
 
 </div>
 
