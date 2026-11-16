@@ -6,9 +6,9 @@
 
 **Engenheiro de Software · Backend e Agentes de IA**
 
-<a href="https://www.linkedin.com/in/leandro-custodio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://LeandroCustodio2002.github.io/Curriculo/"><img src="https://img.shields.io/badge/📄_Currículo-1a1b27?style=for-the-badge" alt="Currículo"></a>
-<a href="https://leandrocustodio2002.github.io/portfolio-gameDev/"><img src="https://img.shields.io/badge/🕹️_Portfólio_game_dev-1a1b27?style=for-the-badge" alt="Portfólio Game Dev"></a>
+<a href="https://www.linkedin.com/in/leandro-custodio/"><img src="https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://LeandroCustodio2002.github.io/Curriculo/"><img src="https://img.shields.io/badge/📄_Currículo-991B1B?style=for-the-badge" alt="Currículo"></a>
+<a href="https://leandrocustodio2002.github.io/portfolio-gameDev/"><img src="https://img.shields.io/badge/🕹️_Portfólio_game_dev-7F1D1D?style=for-the-badge" alt="Portfólio Game Dev"></a>
 
 </div>
 
@@ -23,19 +23,19 @@ Nas horas vagas eu faço jogos e coisas malucas com código, tipo rodar Bad Appl
 ## 🛠️ Stack
 
 **No trabalho:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-B91C1C?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-B91C1C?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B91C1C?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-B91C1C?logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-B91C1C?logo=springboot&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-B91C1C?logo=datadog&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-B91C1C?logoColor=white)
 
 **Por diversão:**
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-7F1D1D?logo=godotengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7F1D1D?logo=dotnet&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-7F1D1D?logo=threedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7F1D1D?logo=cplusplus&logoColor=white)
 
 ## 🧭 Trajetória
 
@@ -49,7 +49,7 @@ Nas horas vagas eu faço jogos e coisas malucas com código, tipo rodar Bad Appl
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=LeandroCustodio2002&theme=tokyonight&hide_border=true&background=00000000" width="49%" />
+<img src="https://streak-stats.demolab.com?user=LeandroCustodio2002&hide_border=true&background=00000000&ring=DC2626&fire=EF4444&currStreakNum=DC2626&currStreakLabel=DC2626&sideNums=B91C1C&sideLabels=991B1B&dates=7F1D1D&stroke=7F1D1D" width="49%" />
 
 <br><br>
 
@@ -59,3 +59,5 @@ Nas horas vagas eu faço jogos e coisas malucas com código, tipo rodar Bad Appl
 </picture>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C&height=100&section=footer" width="100%" />
