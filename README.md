@@ -59,5 +59,3 @@ Nas horas vagas eu faço jogos e coisas malucas com código, tipo rodar Bad Appl
 </picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C&height=100&section=footer" width="100%" />
