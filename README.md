@@ -1,4 +1,4 @@
-<img src="./images/Musashi.png">
+<img src="./images/spider1.jpg">
 
 <div align="center">
 
@@ -57,5 +57,7 @@ Nas horas vagas eu faço jogos e coisas malucas com código, tipo rodar Bad Appl
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroCustodio2002/LeandroCustodio2002/output/github-snake-dark.svg">
   <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/LeandroCustodio2002/LeandroCustodio2002/output/github-snake.svg">
 </picture>
+
+<img src="./images/spider2.jpg">
 
 </div>
