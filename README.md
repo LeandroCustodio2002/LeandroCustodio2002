@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/spider2.jpg" alt="Spider-Man Banner" width="100%">
+<img src="./images/journal.jpg" alt="Spider-Man Banner" width="100%">
 
 # Leandro Custódio
 
